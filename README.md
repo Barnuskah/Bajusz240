@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Barnus
 - 👀 I’m interested in Software Development
 - 📫 Contact: bajusz240@gmail.com
+- 🤖 Programming Raspberry PI for fun
